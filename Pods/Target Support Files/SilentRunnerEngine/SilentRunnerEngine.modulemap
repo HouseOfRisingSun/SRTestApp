@@ -1,0 +1,6 @@
+framework module SilentRunnerEngine {
+  umbrella header "SilentRunnerEngine-umbrella.h"
+
+  export *
+  module * { export * }
+}

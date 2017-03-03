@@ -1,0 +1,29 @@
+PODS:
+  - JSONRPCom (0.0.4):
+    - Mantle
+  - Mantle (2.1.0):
+    - Mantle/extobjc (= 2.1.0)
+  - Mantle/extobjc (2.1.0)
+  - OCHamcrest (6.0.0)
+  - OCMockito (4.0.1):
+    - OCHamcrest (~> 6.0)
+  - SilentRunnerEngine (0.0.4):
+    - JSONRPCom
+    - OCMockito
+    - SocketRocket
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - SilentRunnerEngine
+
+SPEC CHECKSUMS:
+  JSONRPCom: f574a8df00d5e3b9b8d98234715637ea1d03174f
+  Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+  OCHamcrest: fc8ab38149b97df8db8029a3f2157c951bf9081d
+  OCMockito: 62ddc6afff6a883f2864d51224b1dfdc0e9a7df7
+  SilentRunnerEngine: 579731f852becfc2e81488025c3f72448ab17ee9
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 2538e37f4935da7a4ef5c7bccf79729b266e1b52
+
+COCOAPODS: 1.2.0
